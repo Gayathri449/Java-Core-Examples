@@ -4,6 +4,6 @@ public class BinarySearch
 public static void main(String args[])
 {
 	BinaryLogic bl=new BinaryLogic();
-	bl.getbinary();
+	bl.getbi nary();
 }
 }
